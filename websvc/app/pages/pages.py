@@ -84,7 +84,12 @@ class Pages:
                         <a class="text-dark" href="/coinbasepro">Coinbase Pro</a>
                     </td>
                 </tr>
-                
+                <tr>
+                    <th scope="row">2</th>
+                    <td style="border-left: 1px solid #000;">
+                        <a class="text-dark" href="/coinbasepro">KuCoin</a>
+                    </td>
+                </tr>
             </tbody>
         </table>
 
